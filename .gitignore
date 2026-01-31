@@ -1,0 +1,3 @@
+# Claude local settings and temporary files
+.claude/settings.local.json
+tmpclaude-*
